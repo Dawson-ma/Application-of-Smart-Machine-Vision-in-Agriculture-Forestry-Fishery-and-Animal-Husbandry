@@ -6,4 +6,4 @@ Food production is an increasingly important topic worldwide due to factors such
 ## Citation
 Chang, K. R., Ma, T. H., & Kuo, Y. F. (2023). Strategic Short Note: Application of Smart Machine Vision in Agriculture, Forestry, Fishery, and Animal Husbandry. In IoT and AI in Agriculture: Self-sufficiency in Food Production to Achieve Society 5.0 and SDG's Globally (pp. 125-131). Singapore: Springer Nature Singapore.
 
-For more details, please visit the [paper](https://link.springer.com/chapter/10.1007/978-981-19-8113-5_8) at Springer.
+For more details, please visit the [paper](https://doi.org/10.1007/978-981-19-8113-5_8) at Springer.
